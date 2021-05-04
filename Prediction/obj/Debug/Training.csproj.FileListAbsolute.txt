@@ -1,0 +1,10 @@
+E:\My Different Projects\My C# Projects\Training\bin\Debug\Training.exe.config
+E:\My Different Projects\My C# Projects\Training\bin\Debug\Training.exe
+E:\My Different Projects\My C# Projects\Training\bin\Debug\Training.pdb
+E:\My Different Projects\My C# Projects\Training\obj\Debug\Training.csprojAssemblyReference.cache
+E:\My Different Projects\My C# Projects\Training\obj\Debug\Training.Form1.resources
+E:\My Different Projects\My C# Projects\Training\obj\Debug\Training.Properties.Resources.resources
+E:\My Different Projects\My C# Projects\Training\obj\Debug\Training.csproj.GenerateResource.cache
+E:\My Different Projects\My C# Projects\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+E:\My Different Projects\My C# Projects\Training\obj\Debug\Training.exe
+E:\My Different Projects\My C# Projects\Training\obj\Debug\Training.pdb
